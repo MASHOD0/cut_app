@@ -31,4 +31,4 @@ The Application will have the following modules:
 
 
 ### Contributors
-![Mashhood Alam](https://GitHub.com/MASHOD0)
+[Mashhood Alam](https://GitHub.com/MASHOD0)
