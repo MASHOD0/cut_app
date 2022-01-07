@@ -11,7 +11,7 @@ public class UserService {
     public List<User> getUsers(){
         return List.of(
                 new User(
-                        1,
+                        1L,
                         "Mashhhod",
                         "3lm",
                         "pwned",
